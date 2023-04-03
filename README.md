@@ -4,4 +4,4 @@
 
 You are expected to briefly explain the game you are planning to develop for the project in 2-3 paragraphs. Discuss the basics of the game, mechanics, objects, etc.
 
-This part is not graded. This is a chance for you to get feedback on the idea before you start.
+This part is not graded. This is a chance for you to get feedback on the idea before you start. Create a new markdown file for your text.
